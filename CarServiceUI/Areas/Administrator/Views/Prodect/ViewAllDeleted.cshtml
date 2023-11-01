@@ -1,0 +1,51 @@
+﻿@model IEnumerable<CarServiceBL.Models.Prodect>
+@{
+    ViewData["Title"] = "ViewAllDeleted";
+}
+
+<h2>ViewAllDeleted</h2>
+
+@if (Model.Any())
+{
+    <table class="table table-bordered">
+        <tr>
+            <td>@Html.DisplayNameFor(x=>x.ProdectName)</td>
+            <td>@Html.DisplayNameFor(x=>x.ProdectDescription)</td>
+            <td>@Html.DisplayNameFor(x=>x.Size)</td>
+            <td>@Html.DisplayNameFor(x=>x.Price)</td>
+            <td>@Html.DisplayNameFor(x=>x.Type)</td>
+        </tr>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>@i.ProdectName</td>
+                <td>@i.ProdectDescription</td>
+                <td>@i.Size</td>
+                <td>@i.Price</td>
+                <td>@i.Type</td>
+                <td>
+                    <img src="~/img/@i.ImagePath" width="50" class=" img-thumbnail  rounded-circle" />
+                </td>
+                <td>
+                <td>
+                    <a asp-action="Restore" class="btn btn-danger" asp-route-id="@i.ProdectId">Restor</a>
+                </td>
+
+            </tr>
+
+        }
+    </table>
+}
+
+
+else
+{
+    <div class=" alert alert-warning">
+        No Data in this List
+        <a asp-action="Create" class="btn btn-outline-warning">click</a>
+        to  create new Prodect
+
+
+    </div>
+
+}

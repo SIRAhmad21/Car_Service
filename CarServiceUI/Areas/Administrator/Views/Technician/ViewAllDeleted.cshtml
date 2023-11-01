@@ -1,0 +1,42 @@
+﻿@model IEnumerable<CarServiceBL.Models.Technician>
+@{
+    ViewData["Title"] = "ViewAllDeleted";
+}
+
+<h2>ViewAllDeleted</h2>
+
+@if (Model.Any())
+{
+    <table class="table table-bordered">
+        <tr>
+            <th> @Html.DisplayNameFor(x=> x.TechnicianName )> </th>
+            <th> @Html.DisplayNameFor(x=> x.TechnicianDescription ) </th>
+            <th>Operation</th>
+        </tr>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.TechnicianName</td>
+                <td>@emp.TechnicianDescription</td>
+                <td>
+                    <a asp-action="Restore" class="btn btn-danger" asp-route-id="@emp.TechnicianId">Restor</a>
+                </td>
+
+            </tr>
+
+        }
+    </table>
+}
+
+
+else
+{
+    <div class=" alert alert-warning">
+        No Data in this List
+        <a asp-action="Create" class="btn btn-outline-warning">click</a>
+        to  create new Technician
+
+
+    </div>
+
+}

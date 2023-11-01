@@ -1,0 +1,17 @@
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\bin\Debug\net7.0\CarServiceEF.deps.json
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\bin\Debug\net7.0\CarServiceEF.runtimeconfig.json
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\bin\Debug\net7.0\CarServiceEF.dll
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\bin\Debug\net7.0\CarServiceEF.pdb
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\bin\Debug\net7.0\CarServiceBL.dll
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\bin\Debug\net7.0\CarServiceBL.pdb
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\CarServiceEF.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\CarServiceEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\CarServiceEF.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\CarServiceEF.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\CarServiceEF.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\CarServiceEF.csproj.CopyComplete
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\CarServiceEF.dll
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\refint\CarServiceEF.dll
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\CarServiceEF.pdb
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\CarServiceEF.genruntimeconfig.cache
+C:\Users\ahmad\Desktop\CarService\CarServiceEF\obj\Debug\net7.0\ref\CarServiceEF.dll

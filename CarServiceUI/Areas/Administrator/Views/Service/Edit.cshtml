@@ -1,0 +1,31 @@
+﻿@model CarServiceBL.Models.Service
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit Technician</h2>
+
+<form asp-action="Edit" method="post">
+    @Html.HiddenFor(x=>x.ServiceId);
+    <table class="table tab-content">
+        <tr>
+            <td><label asp-for="ServiecName"></label></td>
+            <td><input asp-for="ServiecName"></td>
+        </tr>
+        <tr>
+            <td><label asp-for="ServiceDescription"></label></td>
+            <td><input asp-for="ServiceDescription" class="form-control"></td>
+        </tr>
+
+        <tr>
+            <td>
+                <input type="submit" class="btn btn-success" value="Save  ">
+                <a asp-action="Index" class="btn btn-outline-light">Back</a>
+            </td>
+
+        </tr>
+
+    </table>
+</form>
+

@@ -1,0 +1,40 @@
+﻿@model CarServiceBL.Models.ViewModel.LoginViewModel
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login & Signup Form HTML CSS | CodingNepal</title>
+    <link rel="stylesheet" href="~/css/signIn.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.all.min.js"></script>
+    <link rel="stylesheet" href="~/https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+</head>
+
+<body>
+    <section class="wrapper">
+        <div class="form signup">
+            <header>Login</header>
+            <form  asp-action="Login" method="post">
+                <input placeholder="Email address"  asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+                <input placeholder="Password"  asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+                <input type="submit" value="Login" id="loginbutton" />
+                
+
+                <input asp-action="Register" type="submit"  value="Register" />
+                <a asp-action="Index" asp-controller="Home" >Back To Home </a>
+              
+            </form>
+        </div>
+
+    </section>
+
+</body>
+
+</html>

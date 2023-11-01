@@ -1,0 +1,71 @@
+﻿@model CarServiceBL.Models.Booking
+
+@{
+    ViewData["Title"] = "BookNow";
+}
+
+
+<div class="container-fluid bg-secondary booking my-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="row gx-5">
+            <div class="col-lg-6 py-5">
+                <div class="py-5">
+                    <h1 class="text-white mb-4">Certified and Award Winning Car Repair Service Provider</h1>
+                    <p class="text-white mb-0">
+                        Regular servicing will mean your car is running as efficiently and safely as possible, and regular scheduled servicing may well end up saving you money in the end.
+                        By getting a regular service, you are likely to see improved fuel efficiency, better handling and a smoother running engine, as well as peace of mind from knowing your vehicle is running optimally. It also decreases the likelihood of your car breaking down either at home or at the roadside.
+                        It can also help you avoid severe repair bills by nipping in the bud any issues that may lead to a problem over time. A full service history will also optimize your car’s market value should you choose to sell. Regular vehicle servicing will almost certainly extend the life of your vehicle as well.
+                        You can keep on track with your car's maintenance by getting a service plan to spread the cost over two years.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="bg-primary h-100 d-flex flex-column justify-content-center text-center p-5 wow zoomIn" data-wow-delay="0.6s">
+                    <h1 class="text-white mb-4">Book Now </h1>
+                    <form asp-action="BookNow" method="post">
+                        <div class="row g-3" asp-validation-summary="All">
+                            <div class="col-12 col-sm-6">
+                                <label asp-for="Name" class="control-label"></label>
+                                <input asp-for="Name" class="form-control" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="col-12 col-sm-6">
+                                <label asp-for="Email" class="control-label"></label>
+                                <input asp-for="Email" class="form-control" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                            <div class="col-12 col-sm-6">
+                                <label asp-for="MobileNumber" class="control-label"></label>
+                                <input asp-for="MobileNumber" class="form-control" />
+                                <span asp-validation-for="MobileNumber" class="text-danger"></span>
+                            </div>
+                            <div class="col-12 col-sm-6">
+                                <label asp-for="City" class="control-label"></label>
+                                <input asp-for="City" class="form-control" />
+                                <span asp-validation-for="City" class="text-danger"></span>
+                            </div>
+                            <div class="col-12 col-sm-6">
+                                <label asp-for="VistTime" class="control-label"></label>
+                                <input asp-for="VistTime" class="form-control" />
+                                <span asp-validation-for="VistTime" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-12 col-sm-6">
+                                <label asp-for="ServiceId" class="control-label">Select Your Service</label>
+                                <select asp-for="ServiceId" class="form-control" asp-items="ViewBag.services"></select>
+                            </div>
+                           
+                        
+                            <div class="col-12">
+                                <button class="btn btn-secondary w-100 py-3" value="Create" type="submit">Book Now</button>
+                            </div>
+                            <div class ="col-12">
+                                <a asp-action="Index"asp-controller="Home" class="btn btn-outline-warning w-100 py-3">Cancel</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

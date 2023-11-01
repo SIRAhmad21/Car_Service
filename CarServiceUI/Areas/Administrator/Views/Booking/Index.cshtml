@@ -1,0 +1,40 @@
+﻿@model IEnumerable<CarServiceBL.Models.Booking>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@if (Model.Any())
+{
+   
+    <table class="table table-bordered">
+        <tr>
+            <td>@Html.DisplayNameFor(x=>x.City)</td>
+            <td>@Html.DisplayNameFor(x=>x.Email)</td>
+            <td>@Html.DisplayNameFor(x=>x.VistTime)</td>
+            <td>@Html.DisplayNameFor(x=>x.MobileNumber)</td> 
+        </tr>
+
+        @foreach (var i in Model)
+        {
+
+            <tr>
+                <td>@i.City</td>
+                <td>@i.Email</td>
+                <td>@i.VistTime</td>
+                <td>@i.MobileNumber</td>
+             
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <div>
+        <p> No Tec Created Yet  if  You  want u Can Create A one From Here  <p />
+        <a asp-action="Index" asp-asp-controller="HomeDash" class="btn btn-success">Back</a>
+    </div>
+}
+
+<a asp-action="Index" asp-controller="HomeDash" class="btn btn-success">Back</a>

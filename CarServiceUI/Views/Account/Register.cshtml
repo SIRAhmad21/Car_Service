@@ -1,0 +1,49 @@
+﻿@model CarServiceBL.Models.ViewModel.RegisterViewModel
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login & Signup Form HTML CSS | CodingNepal</title>
+    <link rel="stylesheet" href="~/css/signIn.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.all.min.js"></script>
+    <link rel="stylesheet" href="~/https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+</head>
+
+<body>
+    <section class="wrapper">
+        <div class="form signup">
+          <header>Signup</header>  
+            <form asp-action="Register" method="post">
+                
+                <input placeholder="Email address" asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+
+               
+                <input placeholder="Password" asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+
+                <input placeholder="Confirm Password" asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+
+                <input placeholder="Mobile" asp-for="Mobile" class="form-control" />
+                <span asp-validation-for="Mobile" class="text-danger"></span>
+         
+
+                <input type="submit" id="signupButton" value="Register" />
+                <input asp-action="Login" type="submit" value="Login" />
+            </form>
+        </div>
+
+    
+    </section>
+
+</body>
+
+</html>

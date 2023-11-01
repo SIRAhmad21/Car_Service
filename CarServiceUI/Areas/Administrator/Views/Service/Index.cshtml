@@ -1,0 +1,50 @@
+﻿@model IEnumerable<CarServiceBL.Models.Service>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+@if (ViewBag.IsDeleted > 0)
+{
+    <a asp-action="ViewAllDeleted" class="btn btn-success">ViewAllDeleted</a>
+}
+
+<br />
+<br />
+
+@if (Model.Any())
+{
+    <a asp-action="Create" class="btn btn-success">Create</a>
+    <table class="table table-bordered">
+        <tr>
+            <td>@Html.DisplayNameFor(x=>x.ServiecName)</td>
+            <td>@Html.DisplayNameFor(x=>x.ServiceDescription)</td>
+        </tr>
+
+        @foreach (var i in Model)
+        {
+
+            <tr>
+                <td>@i.ServiecName</td>
+                <td>@i.ServiceDescription</td>
+                <td>
+                    <img src="~/img/@i.ImagePath" width="50" class=" img-thumbnail  rounded-circle" />
+                </td>
+                <td>
+                    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@i.ServiceId">Edit</a>
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@i.ServiceId">Delete</a>
+                    <a asp-action="SoftDelete" class="btn btn-danger" asp-route-id="@i.ServiceId">SoftDelete</a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <div>
+        <p> No Servive Created Yet  if  You  want u Can Create A one From Here  <p />
+        <a asp-action="Create" class="btn btn-success">Create</a>
+    </div>
+}

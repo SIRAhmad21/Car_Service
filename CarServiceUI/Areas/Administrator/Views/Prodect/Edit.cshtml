@@ -1,0 +1,44 @@
+﻿@model CarServiceBL.Models.Prodect
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<form asp-action="Edit" method="post">
+    @Html.HiddenFor(x=>x.ProdectId);
+
+
+
+    <table class="table tab-content">
+        <tr>
+            <td><label asp-for="ProdectName"></label></td>
+            <td><input asp-for="ProdectName"></td>
+        </tr>
+        <tr>
+            <td><label asp-for="ProdectDescription"></label></td>
+            <td><input asp-for="ProdectDescription" class="form-control"></td>
+        </tr>
+        <tr>
+            <td><label asp-for="Size"></label></td>
+            <td><input asp-for="Size"></td>
+        </tr>
+        <tr>
+            <td><label asp-for="Price"></label></td>
+            <td><input asp-for="Price"></td>
+        </tr>
+        <tr>
+            <td><label asp-for="Type"></label></td>
+            <td><input asp-for="Type"></td>
+        </tr>
+       
+        <tr>
+            <td>
+                <input type="submit" class="btn btn-success" value="Save  ">
+                <a asp-action="Index" class="btn btn-outline-light">Back</a>
+            </td>
+
+        </tr>
+
+    </table>
+</form>

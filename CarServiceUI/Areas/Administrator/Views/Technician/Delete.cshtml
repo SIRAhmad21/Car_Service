@@ -1,0 +1,22 @@
+﻿@model CarServiceBL.Models.Technician
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+
+    <h3>Are you sure you want to delete this?   @* <span class="text-danger">@Model?.TechnicianName aaa </span>  *@  </h3>
+    <div>
+
+        <form method="post" asp-action="Delete">
+
+
+            @Html.HiddenFor(x=> x.TechnicianId)
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            <a asp-action="Index" class="btn btn-warning">Back to List</a>
+        </form>
+
+
+    </div>

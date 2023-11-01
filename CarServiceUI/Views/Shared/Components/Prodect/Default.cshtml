@@ -1,0 +1,85 @@
+﻿@model IEnumerable<CarServiceBL.Models.Prodect>
+
+
+<div class="container-xxl service py-5">
+    <div class="blog">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="text-primary text-uppercase">Oil Changing</h6>
+                <h1 class="mb-5">Explore Our Oil Product</h1>
+            </div>
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    @if (item.Type == "Oil")
+                    {
+                        <div class="col-lg-4">
+                            <p>Our Oil Product</p>
+                            <div class="blog-item">
+                                <div class="blog-img">
+                                    <img src="~/img/@item.ImagePath" alt="Image">
+                                    <div class="meta-date">
+                                        <span>01</span>
+                                        <strong>Jan</strong>
+                                        <span>2024</span>
+                                    </div>
+                                </div>
+                                <div class="blog-text">
+                                    <h3><a href="#">@item.ProdectName</a></h3>
+                                    <p>
+                                        @item.ProdectDescription
+                                    </p>
+                                </div>
+                                <div class="blog-meta">
+                                    <p>@item.Price</p>
+                                    <p>@item.Type</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+    </div>
+<div class="container-xxl service py-5">
+    <div class="blog">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="text-primary text-uppercase">Tires Replacement </h6>
+                <h1 class="mb-5">Explore Our Tire Product</h1>
+            </div>
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    @if (item.Type == "Tire")
+                    {
+                        <div class="col-lg-4">
+                            <p>Our Oil Product</p>
+                            <div class="blog-item">
+                                <div class="blog-img">
+                                    <img src="~/img/@item.ImagePath" alt="Image">
+                                    <div class="meta-date">
+                                        <span>01</span>
+                                        <strong>Jan</strong>
+                                        <span>2024</span>
+                                    </div>
+                                </div>
+                                <div class="blog-text">
+                                    <h3><a href="#">@item.ProdectName</a></h3>
+                                    <p>
+                                        @item.ProdectDescription
+                                    </p>
+                                </div>
+                                <div class="blog-meta">
+                                    <p>@item.Price</p>
+                                    <p>@item.Type</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</div>

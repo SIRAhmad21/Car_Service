@@ -1,0 +1,42 @@
+﻿@model CarServiceBL.Models.Technician
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create Technician</h2>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="All" class="text-danger"></div>
+          
+            <div class="form-group">
+                <label asp-for="TechnicianName" class="control-label"></label>
+                <input asp-for="TechnicianName" class="form-control" />
+                <span asp-validation-for="TechnicianName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TechnicianDescription" class="control-label"></label>
+                <input asp-for="TechnicianDescription" class="form-control" />
+                <span asp-validation-for="TechnicianDescription" class="text-danger"></span>
+            </div>
+    
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input asp-for="Image" class="form-control accept="image/*" />
+                
+            </div> 
+            
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-secondary" />
+                <a asp-action="Index" class="btn btn-warning">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+

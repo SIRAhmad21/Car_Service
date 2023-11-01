@@ -1,0 +1,44 @@
+﻿@model CarServiceBL.Models.Technician
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit Technician</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    @Html.HiddenFor(x=>x.TechnicianId)
+    <table class="table tab-content">
+        <tr>
+            <td><label asp-for="TechnicianName"></label></td>
+            <td><input asp-for="TechnicianName"></td>
+        </tr>
+        <tr>
+            <td><label asp-for="TechnicianDescription"></label></td>
+            <td><input asp-for="TechnicianDescription" class="form-control"></td>
+        </tr>
+        @*  <div class="form-group">
+            <label asp-for="Image" class="control-label"></label>
+            <input asp-for="Image" class="form-control accept="image/*" />
+
+        </div>  
+       <div class="form-group">
+            <label asp-for="Image"></label>
+            <input asp-for="Image" type="file" class="form-control accept="image/*" />
+        </div>
+
+        <div class="form-group">
+            <img src="~/img/@Model.ImagePath" alt="Technician Image" class="img-thumbnail" />
+        </div>*@
+ 
+        <tr>
+            <td>
+                <input type="submit" class="btn btn-success" value="Save  ">
+                <a asp-action="Index" class="btn btn-outline-light">Back</a>
+            </td>
+
+        </tr>
+
+    </table>
+</form>
+
