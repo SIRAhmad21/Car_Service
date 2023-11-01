@@ -1,6 +1,7 @@
 ﻿@using Microsoft.AspNetCore.Identity;
 @inject SignInManager<IdentityUser> _signInManager
 @inject UserManager<IdentityUser> _userManager
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -80,46 +81,55 @@
 
             <div class="navbar-nav ms-auto p-4 p-lg-0">
 
-
-
                 <a asp-action="Index" asp-controller="Home" class="nav-item nav-link active">Home</a>
                 <a asp-action="About" asp-controller="Home" class="nav-item nav-link">About</a>
                 <a asp-action="ServiceView" asp-controller="Demo" class="nav-item nav-link">Services</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a asp-action="BookNow" asp-controller="Booking" class="dropdown-item">Booking</a>
-                        <a href="team.html" class="dropdown-item">Technicians</a>
-                        <a asp-action="Index" asp-controller="Serivces" asp-area"Administrator" class="dropdown-item">Services</a>
+                        @if (_signInManager.IsSignedIn(User))
+                        {
+                            <a asp-action="BookNow" asp-controller="Booking" class="dropdown-item">Booking</a>
+                        }
+                        <a  asp-action="ServiceView" asp-controller="Demo" class="dropdown-item">Services</a>
                         <a href="404.html" class="dropdown-item">Add Your Feedback </a>
                     </div>
   
                 </div>
-      
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Account</a>
-                    if (_signInManager.IsSignedIn(User))
+                    @if (_signInManager.IsSignedIn(User))
                     {
-                    if (User.IsInRole("Adminstror"))
-                    {<a class="nav-link text-dark" asp-area="Administrator" asp-controller="HomeDash" asp-action="Index">Dashborad</a>}
-                    <div class="dropdown-menu fade-up m-0">
-                    <a class="nav-link text-dark" asp-controller="Account" asp-action="ChangePasswprd">
-                        ChangePassword
-                    </a>
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">
-                        Logout @User.Identity.Name
-                    </a>
-                    </div>
+                       
+                        <div class="dropdown-menu fade-up m-0">
+                            <a class="nav-link text-dark" asp-controller="Account" asp-action="ChangePassword">Change Password</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">Logout @User.Identity.Name</a>
+                        </div>
                     }
-                    else{
-                    <div class="dropdown-menu fade-up m-0">
-                     <a asp-action="Login" asp-controller="Account" class="dropdown-item">Login</a>
-                     <a asp-action="Register" asp-controller="Account" class="dropdown-item">Register</a>
-                     </div> }                 
-                </div>
+                    else
+                    {
+                        <div class="dropdown-menu fade-up m-0">
+                            <a asp-action="Login" asp-controller="Account" class="dropdown-item">Login</a>
+                            <a asp-action="Register" asp-controller="Account" class="dropdown-item">Register</a>
+                        </div>
+                    }
+                </div> 
+
+
+                <div class="nav-item dropdown">
                 <a asp-action="Contact" asp-controller="Home" class="nav-item nav-link">Contact</a>
             </div>
-            <a asp-action="BookNow" asp-controller="Booking" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Book now<i class="fa fa-arrow-right ms-3"></i></a>
+                <div class="nav-item dropdown">
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a class="nav-link text-dark" asp-area="Administrator" asp-controller="HomeDash" asp-action="Index">Dashborad</a>
+                    }
+                </div>
+                @if (_signInManager.IsSignedIn(User))
+                {
+                    <a asp-action="BookNow" asp-controller="Booking" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Book now<i class="fa fa-arrow-right ms-3"></i></a>
+                }
+            </div> 
         </div>
     </nav>
     <!-- Navbar End -->
@@ -147,25 +157,26 @@
                     <h4 class="text-light mb-4">Opening Hours</h4>
                     <h6 class="text-light">Seven Days a Week:</h6>
                     <p class="mb-4"> 09.00 AM - 09.00 PM</p>
-                    @*   <h6 class="text-light"> Fraiday - Saturday:</h6>
-                    <p class="mb-0">09.00 AM - 6.00 PM</p> *@
+                 
                 </div>
 
                 <div class="col-lg-3 col-md-6">
 
                     <h4 class="text-light mb-4">Services</h4>
-                    <a class="btn btn-link" href="">Diagnostic Test</a>
-                    <a class="btn btn-link" href="">Engine Servicing</a>
-                    <a class="btn btn-link" href="">Tires Replacement</a>
-                    <a class="btn btn-link" href="">Oil Changing</a>
-                    <a class="btn btn-link" href="">Car Cleaning</a>
+                    <a class="btn btn-link" asp-action="ServiceView" asp-controller="Demo">Diagnostic Test</a>
+                    <a class="btn btn-link" asp-action="ServiceView" asp-controller="Demo">Oil Changing</a>
+                    <a class="btn btn-link" asp-action="ServiceView" asp-controller="Demo">Tires Replacement</a>
+                    <a class="btn btn-link" asp-action="ServiceView" asp-controller="Demo">Engine Servicing</a>
+                    <a class="btn btn-link" asp-action="ServiceView" asp-controller="Demo">Car Washing</a>
+                    
+                   
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>
-                    <p>new text</p>
+                    <p>Stay tuned for our upcoming car-related events and workshops. Don't miss out!</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
-                        <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
+                        <input class="form-control  border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+                        <a asp-action="BookNow" asp-controller="Booking"> <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Book Now</button> </a>
                     </div>
                 </div>
             
@@ -175,7 +186,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
+                        &copy; <a class="border-bottom" href="#">Car Service</a>, All Right Reserved.
 
 
                     </div>
