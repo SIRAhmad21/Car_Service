@@ -11463,11 +11463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\CarServiceUI.csproj",
+      "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\CarServiceUI.csproj",
       "projectName": "CarServiceUI",
-      "projectPath": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\CarServiceUI.csproj",
+      "projectPath": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\CarServiceUI.csproj",
       "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\obj\\",
+      "outputPath": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11484,8 +11484,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceEF\\CarServiceEF.csproj": {
-              "projectPath": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceEF\\CarServiceEF.csproj"
+            "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceEF\\CarServiceEF.csproj": {
+              "projectPath": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceEF\\CarServiceEF.csproj"
             }
           }
         }

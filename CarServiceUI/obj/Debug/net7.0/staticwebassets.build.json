@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5nL1ZyGB2Olq7aY9woA2PzDHPLbbqExo9p4pZACpyAo=",
+  "Hash": "zZsWCEuSEgjuW8v5uQPBkKogLcnMPRhoQwRw0zTmgn0=",
   "Source": "CarServiceUI",
   "BasePath": "_content/CarServiceUI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CarServiceUI\\wwwroot",
       "Source": "CarServiceUI",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CarServiceUI.styles.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CarServiceUI.styles.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "CarServiceUI.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CarServiceUI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CarServiceUI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarServiceUI.bundle.scp.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarServiceUI.bundle.scp.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "CarServiceUI.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarServiceUI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarServiceUI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\css\\signIn.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\css\\signIn.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "css/signIn.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\signIn.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\css\\style.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\bootstrap.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\bootstrap-social.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\bootstrap-social.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/bootstrap-social.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\bootstrap-social.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\bootstrap-theme.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\bootstrap-theme.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/bootstrap-theme.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\bootstrap-theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\dataTables\\dataTables.bootstrap.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\dataTables\\dataTables.bootstrap.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/dataTables/dataTables.bootstrap.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\dataTables\\dataTables.bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\dataTables\\dataTables.responsive.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\dataTables\\dataTables.responsive.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/dataTables/dataTables.responsive.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\dataTables\\dataTables.responsive.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\font-awesome.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\metisMenu.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\metisMenu.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/metisMenu.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\metisMenu.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\morris.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\morris.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/morris.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\morris.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\startmin.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\startmin.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/startmin.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\startmin.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\css\\timeline.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\css\\timeline.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/css/timeline.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\css\\timeline.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\FontAwesome.otf",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.eot",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.svg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.woff",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.woff2",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\Index.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\Index.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/Index.html",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\Index.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\bootstrap.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\dataTables\\dataTables.bootstrap.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\dataTables\\dataTables.bootstrap.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/dataTables/dataTables.bootstrap.min.js",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\dataTables\\dataTables.bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\dataTables\\jquery.dataTables.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\dataTables\\jquery.dataTables.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/dataTables/jquery.dataTables.min.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\dataTables\\jquery.dataTables.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\excanvas.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\excanvas.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/excanvas.min.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\excanvas.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.colorhelpers.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.colorhelpers.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.colorhelpers.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.colorhelpers.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.canvas.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.canvas.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.canvas.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.canvas.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.categories.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.categories.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.categories.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.categories.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.crosshair.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.crosshair.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.crosshair.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.crosshair.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.errorbars.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.errorbars.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.errorbars.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.errorbars.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.fillbetween.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.fillbetween.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.fillbetween.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.fillbetween.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.image.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.image.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.image.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.image.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.navigate.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.navigate.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.navigate.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.navigate.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.pie.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.pie.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.pie.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.pie.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.resize.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.resize.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.resize.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.resize.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.selection.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.selection.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.selection.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.selection.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.stack.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.stack.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.stack.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.stack.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.symbol.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.symbol.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.symbol.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.symbol.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.threshold.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.threshold.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.threshold.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.threshold.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.time.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.time.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.time.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.time.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.tooltip.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot\\jquery.flot.tooltip.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot/jquery.flot.tooltip.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot\\jquery.flot.tooltip.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot-data.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\flot-data.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/flot-data.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\flot-data.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\jquery.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/jquery.min.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\metisMenu.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\metisMenu.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/metisMenu.min.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\metisMenu.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\morris.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\morris.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/morris.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\morris.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\morris-data.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\morris-data.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/morris-data.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\morris-data.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\raphael.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\raphael.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/raphael.min.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\raphael.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\js\\startmin.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\js\\startmin.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/js/startmin.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\js\\startmin.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\blank.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\blank.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/blank.html",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\blank.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\buttons.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\buttons.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/buttons.html",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\buttons.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\flot.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\flot.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/flot.html",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\flot.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\forms.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\forms.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/forms.html",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\forms.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\grid.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\grid.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/grid.html",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\grid.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\icons.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\icons.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/icons.html",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\icons.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\index.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\index.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/index.html",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\login.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\login.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/login.html",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\login.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\morris.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\morris.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/morris.html",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\morris.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\notifications.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\notifications.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/notifications.html",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\notifications.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\panels-wells.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\panels-wells.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/panels-wells.html",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\panels-wells.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\tables.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\tables.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/tables.html",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\tables.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\Dashboard\\pages\\typography.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\Dashboard\\pages\\typography.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "Dashboard/pages/typography.html",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Dashboard\\pages\\typography.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\1.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\1.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/1.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\img\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\-205-55r16-h-motomaster-winter-edge-ii-92bd7a46-9f42-4b8e-8566-f5be57f8329b-jpgrendition.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\-205-55r16-h-motomaster-winter-edge-ii-92bd7a46-9f42-4b8e-8566-f5be57f8329b-jpgrendition.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/-205-55r16-h-motomaster-winter-edge-ii-92bd7a46-9f42-4b8e-8566-f5be57f8329b-jpgrendition.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\-205-55r16-h-motomaster-winter-edge-ii-92bd7a46-9f42-4b8e-8566-f5be57f8329b-jpgrendition.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\20820_Longlife_III_5W_30_1l_2d1b.png",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\20820_Longlife_III_5W_30_1l_2d1b.png",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/20820_Longlife_III_5W_30_1l_2d1b.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\img\\20820_Longlife_III_5W_30_1l_2d1b.png"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\21286_Nachf__ll___l_5W_30_1l_dc91.png",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\21286_Nachf__ll___l_5W_30_1l_dc91.png",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/21286_Nachf__ll___l_5W_30_1l_dc91.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\21286_Nachf__ll___l_5W_30_1l_dc91.png"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\21604_Top_Tec_4210_0W_30_1l_7dd7.png",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\21604_Top_Tec_4210_0W_30_1l_7dd7.png",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/21604_Top_Tec_4210_0W_30_1l_7dd7.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\21604_Top_Tec_4210_0W_30_1l_7dd7.png"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\235-45r18-michelin-primacy-mxm4-5e7ee31b-25aa-4ba8-9ef6-8d8aaa92c0ad.png",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\235-45r18-michelin-primacy-mxm4-5e7ee31b-25aa-4ba8-9ef6-8d8aaa92c0ad.png",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/235-45r18-michelin-primacy-mxm4-5e7ee31b-25aa-4ba8-9ef6-8d8aaa92c0ad.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\235-45r18-michelin-primacy-mxm4-5e7ee31b-25aa-4ba8-9ef6-8d8aaa92c0ad.png"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\8972_Top_Tec_4200_5W_30_1l_ca27.png",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\8972_Top_Tec_4200_5W_30_1l_ca27.png",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/8972_Top_Tec_4200_5W_30_1l_ca27.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\8972_Top_Tec_4200_5W_30_1l_ca27.png"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\about.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\about.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\carousel-1.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\carousel-1.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/carousel-1.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\carousel-1.png",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\carousel-1.png",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/carousel-1.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-1.png"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\carousel-2.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\carousel-2.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/carousel-2.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\carousel-2.png",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\carousel-2.png",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/carousel-2.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-2.png"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\carousel-bg-1.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\carousel-bg-1.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/carousel-bg-1.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-bg-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\carousel-bg-2.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\carousel-bg-2.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/carousel-bg-2.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-bg-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\p175-70r14-84t-general-evertrek-gt--f60855f3-fa3e-49a1-94e9-6ae6ade3bcc9.webp",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\p175-70r14-84t-general-evertrek-gt--f60855f3-fa3e-49a1-94e9-6ae6ade3bcc9.webp",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/p175-70r14-84t-general-evertrek-gt--f60855f3-fa3e-49a1-94e9-6ae6ade3bcc9.webp",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\p175-70r14-84t-general-evertrek-gt--f60855f3-fa3e-49a1-94e9-6ae6ade3bcc9.webp"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\R.jfif",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\R.jfif",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/R.jfif",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\R.jfif"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\service-1.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\service-1.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/service-1.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\service-2.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\service-2.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/service-2.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\service-3.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\service-3.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/service-3.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\service-4.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\service-4.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/service-4.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\single.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\single.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/single.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\team-1.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\team-1.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/team-1.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\team-2.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\team-2.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/team-2.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\team-3.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\team-3.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/team-3.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\team-4.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\team-4.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/team-4.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\testimonial-1.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\testimonial-2.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\testimonial-3.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\testimonial-3.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/testimonial-3.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\img\\testimonial-4.jpg",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\testimonial-4.jpg",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "img/testimonial-4.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\index.html",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\js\\main.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\counterup\\counterup.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/counterup/counterup.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\counterup\\counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/tempusdominus/js/moment.min.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/tempusdominus/js/moment-timezone.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\wow\\wow.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\wow\\wow.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/wow/wow.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\lib\\wow\\wow.min.js",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\lib\\wow\\wow.min.js",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "lib/wow/wow.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.min.js"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap.scss",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_card.scss",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_close.scss",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_images.scss",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_root.scss",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_type.scss",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "scss/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\ViewComponents\\NavbarViewComponent.cs",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\ViewComponents\\NavbarViewComponent.cs",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "ViewComponents/NavbarViewComponent.cs",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\ViewComponents\\NavbarViewComponent.cs"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\ViewComponents\\ServiceViewComponent.cs",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\ViewComponents\\ServiceViewComponent.cs",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "ViewComponents/ServiceViewComponent.cs",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\ViewComponents\\ServiceViewComponent.cs"
     },
     {
-      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\ViewComponents\\TECHNICIANViewComponent.cs",
+      "Identity": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\ViewComponents\\TECHNICIANViewComponent.cs",
       "SourceId": "CarServiceUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\",
       "BasePath": "_content/CarServiceUI",
       "RelativePath": "ViewComponents/TECHNICIANViewComponent.cs",
       "AssetKind": "All",

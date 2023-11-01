@@ -95,12 +95,27 @@
                     </div>
   
                 </div>
+      
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Account</a>  
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Account</a>
+                    if (_signInManager.IsSignedIn(User))
+                    {
+                    if (User.IsInRole("Adminstror"))
+                    {<a class="nav-link text-dark" asp-area="Administrator" asp-controller="HomeDash" asp-action="Index">Dashborad</a>}
+                    <div class="dropdown-menu fade-up m-0">
+                    <a class="nav-link text-dark" asp-controller="Account" asp-action="ChangePasswprd">
+                        ChangePassword
+                    </a>
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">
+                        Logout @User.Identity.Name
+                    </a>
+                    </div>
+                    }
+                    else{
                     <div class="dropdown-menu fade-up m-0">
                      <a asp-action="Login" asp-controller="Account" class="dropdown-item">Login</a>
                      <a asp-action="Register" asp-controller="Account" class="dropdown-item">Register</a>
-                     </div>                  
+                     </div> }                 
                 </div>
                 <a asp-action="Contact" asp-controller="Home" class="nav-item nav-link">Contact</a>
             </div>
@@ -179,6 +194,7 @@
     <!-- Footer End -->
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+  
 
 
     <!-- JavaScript Libraries -->

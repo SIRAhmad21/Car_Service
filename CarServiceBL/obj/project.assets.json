@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceBL\\CarServiceBL.csproj",
+      "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceBL\\CarServiceBL.csproj",
       "projectName": "CarServiceBL",
-      "projectPath": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceBL\\CarServiceBL.csproj",
+      "projectPath": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceBL\\CarServiceBL.csproj",
       "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmad\\Desktop\\CarService\\CarServiceBL\\obj\\",
+      "outputPath": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceBL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
