@@ -1,0 +1,19 @@
+﻿@model CarServiceBL.Models.Comment
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+<h3>Are you sure you want to delete this?     </h3>
+<div>
+
+    <form method="post" asp-action="Delete">
+
+
+        @Html.HiddenFor(x=> x.Commentid)
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index" class="btn btn-warning">Back </a>
+    </form>
+
+
+</div>

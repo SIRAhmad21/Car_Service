@@ -90,9 +90,10 @@
                         @if (_signInManager.IsSignedIn(User))
                         {
                             <a asp-action="BookNow" asp-controller="Booking" class="dropdown-item">Booking</a>
+                            <a asp-action="Create" asp-controller="Comment" class="dropdown-item">Add Your Feedback </a>
                         }
                         <a  asp-action="ServiceView" asp-controller="Demo" class="dropdown-item">Services</a>
-                        <a href="404.html" class="dropdown-item">Add Your Feedback </a>
+                        
                     </div>
   
                 </div>

@@ -1,0 +1,35 @@
+﻿@model IEnumerable<CarServiceBL.Models.Comment>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+@if (Model.Any())
+{
+    <a asp-area="Administrator" asp-controller="HomeDash" asp-action="Index">GO TO Dashbaoard</a>
+    <table class="table table-bordered">
+        <tr>
+            <td>@Html.DisplayNameFor(x=>x.CommentTitle)</td>
+            <td>@Html.DisplayNameFor(x=>x.CommentText)</td>
+            <td>@Html.DisplayNameFor(x=>x.Image)</td>
+        </tr>
+
+        @foreach (var i in Model)
+        {
+
+            <tr>
+                <td>@i.CommentTitle</td>
+                <td>@i.CommentText</td>
+            
+                <td>
+                    <img src="~/img/@i.ImagePath" width="50" class=" img-thumbnail  rounded-circle" />
+                </td>
+                <td>
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@i.Commentid">Delete</a>
+                   
+                </td>
+            </tr>
+        }
+    </table>
+}

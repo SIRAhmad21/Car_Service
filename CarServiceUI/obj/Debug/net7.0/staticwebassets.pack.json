@@ -309,6 +309,10 @@
       "PackagePath": "staticwebassets\\img\\8972_Top_Tec_4200_5W_30_1l_ca27.png"
     },
     {
+      "Id": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\IMG_0551.jpg",
+      "PackagePath": "staticwebassets\\img\\IMG_0551.jpg"
+    },
+    {
       "Id": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\R.jfif",
       "PackagePath": "staticwebassets\\img\\R.jfif"
     },
@@ -379,18 +383,6 @@
     {
       "Id": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\img\\team-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\testimonial-1.jpg",
-      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\testimonial-2.jpg",
-      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\testimonial-3.jpg",
-      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
     },
     {
       "Id": "C:\\Users\\ahmad\\Desktop\\CarService\\Car_Service\\CarServiceUI\\wwwroot\\img\\testimonial-4.jpg",
