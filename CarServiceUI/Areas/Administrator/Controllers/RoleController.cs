@@ -1,9 +1,12 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using CarServiceBL.Models.ViewModel;
+using Microsoft.AspNetCore.Authorization;
+
 namespace CarServiceUI.Areas.Administrator.Controllers
 {
     [Area("Administrator")]
+    [Authorize]
     public class RoleController : Controller
     {
         #region Configration
@@ -20,17 +23,17 @@ namespace CarServiceUI.Areas.Administrator.Controllers
         }
         #endregion
         #region Roles
-      //  [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public IActionResult RoleList()
         {
             return View(_roleManager.Roles);
         }
-       // [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public IActionResult CreateRole()
         {
             return View();
         }
-     //   [Authorize(Roles = "Admin")]
+       [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> CreateRole(CreateRoleViewModel model)
         {
@@ -52,7 +55,7 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             return View(model);
         }
         [HttpGet]
-     
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> EditRole(string id)
         {
             var role = await _roleManager.FindByIdAsync(id);
@@ -76,6 +79,7 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             else { return BadRequest(); }
         }
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> EditRole(EditRoleViewModel model)
         {
 
@@ -98,7 +102,7 @@ namespace CarServiceUI.Areas.Administrator.Controllers
         }
 
         [HttpGet]
-     //   [Authorize(Roles = "Admin")]
+       [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteRole(string id)
         {
             if (id == null)
@@ -112,7 +116,7 @@ namespace CarServiceUI.Areas.Administrator.Controllers
 
         }
         [HttpPost]
-     //   [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteRole(string id, IdentityRole r)
         {
             if (id == null) { return NotFound(); }
@@ -124,7 +128,7 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             }
             return View(role);
         }
-     //   [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> UserRole(string id)
         {
             List<UserRoleViewModel> userRoleViewModels = new List<UserRoleViewModel>();
@@ -151,7 +155,7 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             return View(userRoleViewModels);
         }
         [HttpPost]
- //       [Authorize(Roles = "Admin")]
+      [Authorize(Roles = "Admin")]
         public async Task<IActionResult> UserRole(string id, List<UserRoleViewModel> models)
         {
             var role = await _roleManager.FindByIdAsync(id);
@@ -183,7 +187,7 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             }
             return View(models);
         }
-     //   [AllowAnonymous]
+    
       
     }
 

@@ -1,11 +1,14 @@
 ﻿using CarServiceBL.IRepository;
 using CarServiceBL.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
 
 namespace CarServiceUI.Areas.Administrator.Controllers
 {
     [Area("Administrator")]
+
+    [Authorize]
     public class ServiceController : Controller
     {
 
@@ -16,19 +19,21 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             serrepo = _serrepo; 
             _hosting = hosting; 
         }
-
+        [Authorize(Roles = "Admin")]
         public IActionResult Index()
         {
             ViewBag.IsDeleted = serrepo.GetAll().Where(x => x.IsDeleted == true).Count();
             var result = serrepo.GetAll().Where(x => x.IsDeleted == false);
             return View(result);
         }
+        [Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
             return View();
         }
-        [HttpPost]
 
+        [HttpPost]
+        [Authorize(Roles = "Admin")]
         public IActionResult Create(Service ser)
         {
             if (ser.Image != null)
@@ -43,13 +48,15 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             return RedirectToAction(nameof(Index));
         }
        [HttpGet]
-       public IActionResult Delete()
+        [Authorize(Roles = "Admin")]
+        public IActionResult Delete()
        {
 
            return View();
        }
        [HttpPost]
-       public IActionResult Delete(int id)
+        [Authorize(Roles = "Admin")]
+        public IActionResult Delete(int id)
        {
            serrepo.Delete(id);
            return RedirectToAction(nameof(Index));
@@ -62,7 +69,8 @@ namespace CarServiceUI.Areas.Administrator.Controllers
            serrepo.SaveData();
            return RedirectToAction("Index");
        }
-       public IActionResult ViewAllDeleted()
+        [Authorize(Roles = "Admin")]
+        public IActionResult ViewAllDeleted()
        {
            return View(serrepo.GetAll().Where(x => x.IsDeleted == true));
        
@@ -74,13 +82,14 @@ namespace CarServiceUI.Areas.Administrator.Controllers
            serrepo.SaveData();
            return RedirectToAction("Index");
        }
-
-         public IActionResult Edit(int id)
+        [Authorize(Roles = "Admin")]
+        public IActionResult Edit(int id)
          {
              return View(serrepo.GetById(id));
          }
          [HttpPost]
-         public IActionResult Edit(Service ser, int id)
+        [Authorize(Roles = "Admin")]
+        public IActionResult Edit(Service ser, int id)
          {
              serrepo.UPdate(id, ser);
              return RedirectToAction(nameof(Index));

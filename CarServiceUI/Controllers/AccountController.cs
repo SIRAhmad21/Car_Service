@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CarServiceUI.Controllers
 {
+    [Authorize]
     public class AccountController : Controller
     {
         #region Configration
@@ -23,18 +24,23 @@ namespace CarServiceUI.Controllers
 
         #region Users
         [HttpGet]
-        // [AllowAnonymous]
+         [AllowAnonymous]
         public IActionResult Register()
         {
             return View();
         }
         [HttpPost]
-        //  [AllowAnonymous]
+         [AllowAnonymous]
         public async Task<IActionResult> Register(RegisterViewModel model)
         {
             if (ModelState.IsValid)
             {
-
+                var existingUser = await _userManager.FindByEmailAsync(model.Email);
+                if (existingUser != null)
+                {
+                    ModelState.AddModelError(string.Empty, "Email is already registered.");
+                    return View(model);
+                }
                 IdentityUser user = new IdentityUser
                 {
                     Email = model.Email,
@@ -54,13 +60,13 @@ namespace CarServiceUI.Controllers
             }
             return View(model);
         }
-        //   [AllowAnonymous]
+         [AllowAnonymous]
         public IActionResult Login()
         {
             return View();
         }
         [HttpPost]
-        // [AllowAnonymous]
+         [AllowAnonymous]
         public async Task<IActionResult> Login(LoginViewModel model)
 
         {
@@ -77,17 +83,20 @@ namespace CarServiceUI.Controllers
             }
             return View(model);
         }
+      
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
         }
+        
         public IActionResult ChangePasswprd()
         {
             return View();
         }
 
         [HttpPost]
+       
         public async Task<IActionResult> ChangePasswprd(ChangePasswprdViewModel model)
         {
             if (ModelState.IsValid)

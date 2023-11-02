@@ -1,12 +1,14 @@
 ﻿using CarServiceBL.IRepository;
 using CarServiceBL.Models;
 using CarServiceEF.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
 
 namespace CarServiceUI.Areas.Administrator.Controllers
 {
     [Area("Administrator")]
+    [Authorize]
     public class TechnicianController : Controller
     {
         public IBaseRepository<Technician> tecrepo;
@@ -16,19 +18,20 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             tecrepo = _tecrepo;  
             _hosting = hosting;
         }
-
+        [Authorize(Roles = "Admin")]
         public IActionResult Index()
         {
             ViewBag.IsDeleted = tecrepo.GetAll().Where(x => x.IsDeleted == true).Count();
             var result = tecrepo.GetAll().Where(x => x.IsDeleted == false);
             return View(result);
         }
+        [Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
             return View();
         }
         [HttpPost]
-
+        [Authorize(Roles = "Admin")]
         public IActionResult Create(Technician tec)
         {
            
@@ -44,13 +47,15 @@ namespace CarServiceUI.Areas.Administrator.Controllers
            
         }
        [HttpGet]
-       public IActionResult Delete()
+        [Authorize(Roles = "Admin")]
+        public IActionResult Delete()
        {
             
             return View();
        }
     [HttpPost]
-    public IActionResult Delete(int id )
+        [Authorize(Roles = "Admin")]
+        public IActionResult Delete(int id )
     {
             tecrepo.Delete(id);
             return RedirectToAction(nameof(Index));
@@ -63,7 +68,8 @@ namespace CarServiceUI.Areas.Administrator.Controllers
          tecrepo.SaveData();
          return RedirectToAction("Index");
      }
-       public IActionResult ViewAllDeleted()
+        [Authorize(Roles = "Admin")]
+        public IActionResult ViewAllDeleted()
        {
            return View(tecrepo.GetAll().Where(x => x.IsDeleted == true)); 
 
@@ -76,31 +82,19 @@ namespace CarServiceUI.Areas.Administrator.Controllers
           return RedirectToAction("Index");
       }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult Edit(int id)
         {
             return View(tecrepo.GetById(id));
         }
         [HttpPost]
 
-
+        [Authorize(Roles = "Admin")]
         public IActionResult Edit(Technician em, int id)
         {
-            //if (em.Image != null)
-            //{
-            //    string ImageFile = Path.Combine(_hosting.WebRootPath, "img");
-            //    string ImgPath = Path.Combine(ImageFile, em.Image.FileName);
-
-            //    string oldImagePath = tecrepo.GetById(id).ImagePath;
-            //    string fulloldImagePath = Path.Combine(ImageFile, oldImagePath);
-            //    if (System.IO.File.Exists(oldImagePath))
-            //    {
-            //        System.IO.File.Delete(oldImagePath);
-            //    }
-            //    em.Image.CopyTo(new FileStream(ImgPath, FileMode.Create));
-            //    em.ImagePath = em.Image.FileName; }
-                tecrepo.UPdate(id, em);
-                return RedirectToAction(nameof(Index));
-           
+         tecrepo.UPdate(id, em);
+         return RedirectToAction(nameof(Index));
+    
         }
     }
 }

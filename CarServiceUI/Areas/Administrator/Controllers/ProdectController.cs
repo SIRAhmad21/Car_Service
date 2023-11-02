@@ -1,6 +1,7 @@
 ﻿using CarServiceBL.IRepository;
 using CarServiceBL.Models;
 using CarServiceEF.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
@@ -8,6 +9,7 @@ using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
 namespace CarServiceUI.Areas.Administrator.Controllers
 {
     [Area("Administrator")]
+    [Authorize]
     public class ProdectController : Controller
     {
         #region Config 
@@ -21,6 +23,7 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             db = _db;
         }
         #endregion
+        [Authorize(Roles = "Admin")]
         public IActionResult Index()
         {
             ViewBag.IsDeleted = prorepo.GetAll().Where(x => x.IsDeleted == true).Count();
@@ -28,13 +31,14 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             var result = prorepo.GetAll().OrderByDescending(x => x.ProdectId).Where(x => x.IsDeleted == false);
             return View(result);
         }
-
+        [Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
            
             return View();
         }
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public IActionResult Create(Prodect pro)
         {
             if (pro.Image != null)
@@ -47,27 +51,32 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             prorepo.Add(pro);
             return RedirectToAction(nameof(Index));
         }
+        [Authorize(Roles = "Admin")]
         public IActionResult Delete()
         {
 
             return View();
         }
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public IActionResult  Delete(int id)
         {
             prorepo.Delete(id);
             return RedirectToAction(nameof(Index));
         }
+        [Authorize(Roles = "Admin")]
         public IActionResult Edit(int id)
         {
             return View(prorepo.GetById(id));
         }
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public IActionResult Edit(Prodect pro, int id)
         {
             prorepo.UPdate(id, pro);
             return RedirectToAction(nameof(Index));
         }
+        
         public IActionResult SoftDelete(int id)
         {
 
@@ -76,11 +85,13 @@ namespace CarServiceUI.Areas.Administrator.Controllers
             prorepo.SaveData();
             return RedirectToAction("Index");
         }
+        [Authorize(Roles = "Admin")]
         public IActionResult ViewAllDeleted()
         {
             return View(prorepo.GetAll().Where(x => x.IsDeleted == true));
 
         }
+
         public IActionResult Restore(int id)
         {
             var edata = prorepo.GetById(id);

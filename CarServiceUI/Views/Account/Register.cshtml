@@ -19,9 +19,9 @@
 <body>
     <section class="wrapper">
         <div class="form signup">
-          <header>Signup</header>  
+            <header>Signup</header>   <div asp-validation-summary="All" class="text-danger">
             <form asp-action="Register" method="post">
-                
+               
                 <input placeholder="Email address" asp-for="Email" class="form-control" />
                 <span asp-validation-for="Email" class="text-danger"></span>
 
@@ -38,7 +38,9 @@
 
                 <input type="submit" id="signupButton" value="Register" />
                 <input asp-action="Login" type="submit" value="Login" />
-            </form>
+
+                </form>
+            </div>
         </div>
 
     

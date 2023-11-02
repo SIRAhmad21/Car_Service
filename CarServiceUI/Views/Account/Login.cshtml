@@ -19,6 +19,7 @@
     <section class="wrapper">
         <div class="form signup">
             <header>Login</header>
+            <div asp-validation-summary="All" class="text-danger">
             <form  asp-action="Login" method="post">
                 <input placeholder="Email address"  asp-for="Email" class="form-control" />
                 <span asp-validation-for="Email" class="text-danger"></span>
@@ -31,6 +32,7 @@
                 <a asp-action="Index" asp-controller="Home" >Back To Home </a>
               
             </form>
+            </div>
         </div>
 
     </section>
